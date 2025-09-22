@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**parker-tolar/parker-tolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Parker 👋
+**Full-stack gamification engineer** blending psychology + code. 100% Upwork success.  
 
-Here are some ideas to get you started:
+## Highlights
+- 🎮 **Roblox Systems**: Persistent save (equipment/relics), tweened UI, 3D viewport FX, battle simulator.
+- 🧠 **Therapy Apps** (React/Next/Tailwind/Firebase): Gamified screener (currency rewards), homework streaks + farming nodes boosting unified “spell power,” card collection with flips.
+- 🧰 **Tools**: Drag-and-drop canvas editor, PDF parser/summarizer.
+- 🃏 **TCG/TTRPG Hybrid**: Group-therapy content embedded into gameplay.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio
+👉 See the live portfolio: https://YOUR-USERNAME.github.io  
+👉 Repos below; pinned projects = best starting points.
+
+## Contact
+- Upwork: YOUR LINK
+- Email: youremail@example.com
