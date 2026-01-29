@@ -2,11 +2,20 @@
 # Hi, I'm Parker 👋
 **Full-stack gamification engineer** blending psychology + code. 100% Upwork success.  
 
-## Highlights
-- 🎮 **Roblox Systems**: Persistent save (equipment/relics), tweened UI, 3D viewport FX, battle simulator.
-- 🧠 **Therapy Apps** (React/Next/Tailwind/Firebase): Gamified screener (currency rewards), homework streaks + farming nodes boosting unified “spell power,” card collection with flips.
-- 🧰 **Tools**: Drag-and-drop canvas editor, PDF parser/summarizer.
-- 🃏 **TCG/TTRPG Hybrid**: Group-therapy content embedded into gameplay.
+## What I Build
+
+- **Roblox Systems**
+  Persistent player data (equipment, relics), tweened UI, 3D viewport effects, and battle simulation logic.
+
+- **Therapy Psycho-education & SEL Apps** (React / Next.js / Tailwind / Firebase)
+  Gamified screeners with currency rewards, narrative driven SEL curricula, micro-courses ,and card-based mechanics with flip animations.
+
+- **Authoring & Utility Tools**
+  Drag-and-drop canvas editors and PDF parsing / summarization tools for rapid content generation.
+
+- **TCG / TTRPG Hybrid Systems**
+  Cooperative, raid-style gameplay where group-therapy concepts are embedded directly into mechanics, cards, and progression loops.
+
 
 ## Portfolio
 👉 See the live portfolio: [https://YOUR-USERNAME.github.io ](https://parker-tolar.github.io/parker-tolar/) 
