@@ -9,9 +9,7 @@
 - 🃏 **TCG/TTRPG Hybrid**: Group-therapy content embedded into gameplay.
 
 ## Portfolio
-👉 See the live portfolio: https://YOUR-USERNAME.github.io  
-👉 Repos below; pinned projects = best starting points.
+👉 See the live portfolio: [https://YOUR-USERNAME.github.io ](https://parker-tolar.github.io/parker-tolar/) 
 
 ## Contact
-- Upwork: YOUR LINK
-- Email: youremail@example.com
+https://www.linkedin.com/in/parker-tolar-416460261/
