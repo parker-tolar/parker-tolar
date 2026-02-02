@@ -1,6 +1,9 @@
 
 # Hi, I'm Parker 👋
-**Full-stack gamification engineer** blending psychology + code. 100% Upwork success.  
+**Applied AI Product Builder of
+Narrative learning systems** 
+
+blending psychology + code. 100% Upwork success.  
 
 ## What I Build
 
